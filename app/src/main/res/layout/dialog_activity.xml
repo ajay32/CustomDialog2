@@ -11,7 +11,7 @@
 
 <TextView
     android:layout_gravity="center"
-    android:text="You had skipped me i am Dialog Acitivity..because you hate me"
+   
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
     </FrameLayout>
